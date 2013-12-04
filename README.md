@@ -1,6 +1,8 @@
 # PyPDFOCR - Tesseract-OCR based PDF filing
 This program will help manage your scanned PDFs by doing the following:
 
+foo
+
 - Take a scanned PDF file and run OCR on it (using the Tesseract OCR software from Google), generating a searchable PDF
 - Optionally, watch a folder for incoming scanned PDFs and automatically run OCR on them
 - Optionally, file the scanned PDFs into directories based on simple keyword matching that you specify
